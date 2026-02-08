@@ -150,7 +150,7 @@ This project demonstrates **basic chaining**. In the prompt template, we're esse
 
 **Advanced chaining** would involve multiple sequential steps (coming in future tutorials).
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Issue: `ModuleNotFoundError: No module named 'langchain'`
 **Solution:** Activate your virtual environment and run `pip install -r requirements.txt`
